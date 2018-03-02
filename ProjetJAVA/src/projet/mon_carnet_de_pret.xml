@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carnet>
+  <personne>
+    <nom>DEFAULT</nom>
+    <prenom>DEFAULT</prenom>
+    <items />
+  </personne>
+  <personne>
+    <nom>nom</nom>
+    <prenom>prenom</prenom>
+    <items>
+      <item>
+        <nomObjet>nom Item</nomObjet>
+        <typeObjet>type Item</typeObjet>
+        <dateObjet>17/03/2017 15:28</dateObjet>
+      </item>
+      <item>
+        <nomObjet>nom Item 1</nomObjet>
+        <typeObjet>type Item 1</typeObjet>
+        <dateObjet>17/03/2017 15:28</dateObjet>
+      </item>
+      <item>
+        <nomObjet>nom Item 2</nomObjet>
+        <typeObjet>type Item 2</typeObjet>
+        <dateObjet>17/03/2017 16:18</dateObjet>
+      </item>
+      <item>
+        <nomObjet>nom Item 3</nomObjet>
+        <typeObjet>type Item 3</typeObjet>
+        <dateObjet>17/03/2017 16:20</dateObjet>
+      </item>
+    </items>
+  </personne>
+  <personne>
+    <nom>nom 1</nom>
+    <prenom>prenom 1</prenom>
+    <items>
+      <item>
+        <nomObjet>nom item</nomObjet>
+        <typeObjet>type item</typeObjet>
+        <dateObjet>17/03/2017 15:29</dateObjet>
+      </item>
+    </items>
+  </personne>
+</carnet>
