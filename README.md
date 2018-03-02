@@ -1,2 +1,2 @@
-# carnet-de-pret
+# Carnet De Prêt
 JAVAEE Project
